@@ -8,3 +8,4 @@
 - Tabletop Simulator / Emulator that follows D&D rules and has interactable map, potentially have it multiplayer
 - interactive map for things like fire panels or boards
 - PPE issuing and receiving system (part booking out)
+- AI model / system that creates outline images from images (upload coloured image, outputs plain outline image)
